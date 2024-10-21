@@ -1,3 +1,5 @@
+# **Course Completion Prediction**
+
 ## Overview
 The **Course Completion Prediction** project aims to predict the likelihood of users completing online courses based on their engagement data, ratings, feedback, and other relevant factors. This project uses machine learning algorithms to derive actionable insights that help in understanding user behavior and optimizing course offerings for higher completion rates.
 
